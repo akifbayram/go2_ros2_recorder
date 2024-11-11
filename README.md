@@ -1,6 +1,6 @@
 # go2_ros2_recorder
 
-**go2_ros2_recorder** is a versatile script designed to work with the [go2_ros2_sdk](https://github.com/akifbayram/go2_ros2_sdk) for the Unitree Go2 robot and the TurtleBot4. It records video streams from the robot's camera, along with odometry and LIDAR scan data, saving them into organized and timestamped files for easy analysis and processing. Optimized for single-robot setups, it can also be configured via parameters for namespaced robots.
+**go2_ros2_recorder** is a script designed to work with the [go2_ros2_sdk](https://github.com/akifbayram/go2_ros2_sdk) for the Unitree Go2 robot and the TurtleBot4. It records video streams from the robot's camera, along with odometry and LIDAR scan data, saving them into organized and timestamped files. Optimized for single-robot setups, it can also be configured via parameters for namespaced robots.
 
 ![image](image.png)
 
